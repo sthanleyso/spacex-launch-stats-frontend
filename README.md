@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6511c1f2a8004dcd86a7597036e4b48f)](https://app.codacy.com/app/sthanleyso/spacex-launch-stats-frontend?utm_source=github.com&utm_medium=referral&utm_content=sthanleyso/spacex-launch-stats-frontend&utm_campaign=Badge_Grade_Dashboard)
+
 In the project directory, you can run:
 
 ### `npm start`
