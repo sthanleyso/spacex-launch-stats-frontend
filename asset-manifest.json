@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/spacex-launch-stats-frontend/static/js/main.fdf1a1a4.chunk.js",
+    "main.js.map": "/spacex-launch-stats-frontend/static/js/main.fdf1a1a4.chunk.js.map",
+    "runtime~main.js": "/spacex-launch-stats-frontend/static/js/runtime~main.310d0c1e.js",
+    "runtime~main.js.map": "/spacex-launch-stats-frontend/static/js/runtime~main.310d0c1e.js.map",
+    "static/js/2.8a78b019.chunk.js": "/spacex-launch-stats-frontend/static/js/2.8a78b019.chunk.js",
+    "static/js/2.8a78b019.chunk.js.map": "/spacex-launch-stats-frontend/static/js/2.8a78b019.chunk.js.map",
+    "index.html": "/spacex-launch-stats-frontend/index.html",
+    "precache-manifest.ae70609606fbec743e92cdfa1fb11326.js": "/spacex-launch-stats-frontend/precache-manifest.ae70609606fbec743e92cdfa1fb11326.js",
+    "service-worker.js": "/spacex-launch-stats-frontend/service-worker.js",
+    "static/media/spacex-logo.png": "/spacex-launch-stats-frontend/static/media/spacex-logo.950ba665.png"
+  }
+}
