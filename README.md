@@ -7,7 +7,7 @@
 ## Overview
 
 Codebase for [https://spacex-launch-stats.netlify.com/](https://spacex-launch-stats.netlify.com/) an app that lists SpaceX missions stats.
-Current iteration is built using ReactJS, GraphQL and Netlify.
+Current iteration is built using ReactJS, GraphQL and Netlify. Based on [@bradtraversy/spacex_launch_stats](https://github.com/bradtraversy/spacex_launch_stats)
 
 ### Features
 
